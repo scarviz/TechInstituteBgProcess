@@ -32,6 +32,3 @@ Serviceのサンプルプログラム。
 
 * TextSpeech  
 読み上げアプリ。
-
-* TextSpeech2  
-読み上げアプリをService化したもの。
