@@ -20,6 +20,9 @@ AsyncTaskを使用したもの。
 * SampleANR6  
 AsyncTaskLoaderを使用したもの。
 
+* SampleANR7_IntentService  
+IntentServiceを使用したもの。
+
 * SampleService  
 Serviceのサンプルプログラム。
 
