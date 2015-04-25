@@ -32,3 +32,8 @@ Serviceのサンプルプログラム。
 
 * TextSpeech  
 読み上げアプリ。
+
+* TextSpeech2  
+読み上げアプリをService化したもの。  
+Activityから読み上げ処理をServiceに移動。  
+バインドしてServiceの読み上げ開始メソッドや停止メソッドを呼べるようにした。  
