@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">TextSpeech</string>
+
+	<string name="action_settings">Settings</string>
+
+	<string name="no_text">no text</string>
+	<string name="start">開始</string>
+	<string name="stop">停止</string>
+
+	<string name="service_stop">Service</string>
+</resources>
